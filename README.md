@@ -116,7 +116,7 @@ GitHub
 
 <!-- </details> -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/YonatanHen/Face_Rec_System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System)](https://github.com/YonatanHen/Face_Rec_System)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
