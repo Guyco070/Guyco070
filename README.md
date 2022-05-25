@@ -31,10 +31,10 @@
 
 ### Languages and Tools:
 
-<div style="display: flex; flex-direction: column; margin: 40px; border-width:6px; boder-color:black;">
+<div class='skill'>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
-<lable>Visual Studio Code</lable>
+Visual Studio Code
 
 </div>
 <!-- <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
