@@ -72,7 +72,7 @@ GitHub
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System)](https://github.com/YonatanHen/Face_Rec_System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System&bg_color=09131B)](https://github.com/YonatanHen/Face_Rec_System)
 
 ---
 
