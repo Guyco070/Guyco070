@@ -33,13 +33,19 @@
 
 <table>
 <tr>
-        <td>
-            <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-        </td>
+    <td>
+        <img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+    </td>
+    <td>
+        <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+    </td>
 </tr>
 </tr>
     <td>
         Visual Studio Code
+    </td>
+    <td>
+        Java Script
     </td>
 </tr>
 </table>
