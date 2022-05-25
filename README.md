@@ -76,7 +76,7 @@ GitHub
 
 <!-- [![Watch the video](./assets/frpic.png)](https://youtu.be/C4j5wOaLyi8) -->
 
-<img align="left" alt="Watch the video" width="100px" src="./assets/frpic.png" style="padding-right:10px;" href='https://youtu.be/C4j5wOaLyi8'/>
+<img align="left" alt="Watch the video" width="100px" src="./assets/frpic.png" style="padding-right:10px;" link='https://youtu.be/C4j5wOaLyi8'/>
 
 <!-- <details> -->
   <summary>:zap: GitHub Stats</summary>
