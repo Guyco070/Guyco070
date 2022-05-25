@@ -76,10 +76,6 @@ GitHub
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YonatanHen&repo=Face_Rec_System)](https://github.com/Guyco070/https://github.com/YonatanHen/Face_Rec_System)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guyco070&repo=Cinema-website---ASP.NET-Sql-Developer)](https://github.com/Guyco070/Cinema-website---ASP.NET-Sql-Developer)
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
