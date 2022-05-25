@@ -31,7 +31,7 @@
 
 ### Languages and Tools:
 
-<div style="background-color:aliceblue;padding:25px;">
+<div style="display: flex; margin: 40px; border-width:6px; boder-color:black;">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 Visual Studio Code
@@ -39,9 +39,7 @@ Visual Studio Code
 </div>
 <!-- <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> -->
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
-Java Script
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />Java Script
 
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
@@ -79,6 +77,7 @@ GitHub
 <a href='https://youtu.be/C4j5wOaLyi8'>
     <img align="left" alt="Watch the video" width="300px" src="./assets/frpic.png" style="padding-right:10px;"/>
 </a>
+
 <!-- <details> -->
   <summary>:zap: GitHub Stats</summary>
 
