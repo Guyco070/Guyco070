@@ -31,7 +31,7 @@
 
 ### Languages and Tools:
 
-<div style={{display:'flex' align-self:'center', backgroudColor:'black'}} >
+<div style={{display:'flex' align-self:'center', backgroud-color:'black'}} >
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 Visual Studio Code
 <div>
