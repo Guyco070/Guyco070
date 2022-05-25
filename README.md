@@ -73,16 +73,16 @@ GitHub
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System&bg_color=09131B)](https://github.com/YonatanHen/Face_Rec_System)
-https://youtu.be/C4j5wOaLyi8
+[![Watch the video](./assets/frpic.png)](https://youtu.be/C4j5wOaLyi8)
 
 ---
 
-<details>
+<!-- <details> -->
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Guyco070&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details>
+<!-- </details> -->
 
 <!-- [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
