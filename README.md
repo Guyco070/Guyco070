@@ -31,7 +31,7 @@
 
 ### Languages and Tools:
 
-<table>
+<!-- <table>
 <tr>
     <td>
         <img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -48,7 +48,7 @@
         Java Script
     </td>
 </tr>
-</table>
+</table> -->
 <table>
     <tr>
         <td>
@@ -120,13 +120,12 @@
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System&bg_color=09131B)](https://github.com/YonatanHen/Face_Rec_System)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System&bg_color=09131B)](https://github.com/YonatanHen/Face_Rec_System) -->
 
-<!-- [![Watch the video](./assets/frpic.png)](https://youtu.be/C4j5wOaLyi8) -->
-
+<!--
 <a href='https://youtu.be/C4j5wOaLyi8'>
     <img align="left" alt="Watch the video" width="300px" src="./assets/frpic.png" style="padding-right:10px;"/>
-</a>
+</a> -->
 
 <!-- <details> -->
   <summary>:zap: GitHub Stats</summary>
