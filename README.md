@@ -75,9 +75,12 @@ GitHub
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System&bg_color=09131B)](https://github.com/YonatanHen/Face_Rec_System)
 
 <!-- [![Watch the video](./assets/frpic.png)](https://youtu.be/C4j5wOaLyi8) -->
+<div style="background-color:aliceblue;padding:25px;">
+
 <a href='https://youtu.be/C4j5wOaLyi8'>
     <img align="left" alt="Watch the video" width="300px" src="./assets/frpic.png" style="padding-right:10px;"/>
 </a>
+</div>
 <!-- <details> -->
   <summary>:zap: GitHub Stats</summary>
 
