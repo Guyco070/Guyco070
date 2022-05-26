@@ -207,6 +207,8 @@ XML -->
   <img alt="Watch the video" width="300px" src="./assets/frpic.png" />
 </a> -->
 
+---
+
 <details open>
 
  <summary>:zap: GitHub Stats</summary>
