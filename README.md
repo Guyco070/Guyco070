@@ -46,10 +46,10 @@
 <!-- <table>
 <tr>
     <td>
-        <img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+        <img align="center" alt="Visual Studio Code" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
     </td>
     <td>
-        <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+        <img align="left" alt="JavaScript" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
     </td>
 </tr>
 </tr>
@@ -61,44 +61,47 @@
     </td>
 </tr>
 </table> -->
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="65px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" style="padding-right:10px;" />
 
-<img align="left" alt="Java Script" width="26px" src="https://img.shields.io/badge/Java%20Script-f7df1e?style=for-the-badge&logo=javascript&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://img.shields.io/badge/react-61DBFB?style=for-the-badge&logo=react&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="Java Script" width="65px" src="https://img.shields.io/badge/Java%20Script-f7df1e?style=for-the-badge&logo=javascript&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="React" width="65px" src="https://img.shields.io/badge/react-61DBFB?style=for-the-badge&logo=react&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="65px" src="https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white" style="padding-right:10px;" />
 
-<img align="left" alt="Python" width="26px" src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="https://img.shields.io/badge/C-5c6bc0?style=for-the-badge&logo=c&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://img.shields.io/badge/C++-5E97D0?style=for-the-badge&logo=cplusplus&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="C#" width="26px" src="https://img.shields.io/badge/C%23-37008c?style=for-the-badge&logo=csharp&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="HTML" width="26px" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="CSS" width="26px" src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="React Native" width="26px" src="https://img.shields.io/badge/React%20Native-61DBFB?style=for-the-badge&logo=react&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="Python" width="65px" src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="C" width="65px" src="https://img.shields.io/badge/C-5c6bc0?style=for-the-badge&logo=c&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="C++" width="65px" src="https://img.shields.io/badge/C++-5E97D0?style=for-the-badge&logo=cplusplus&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="C#" width="65px" src="https://img.shields.io/badge/C%23-37008c?style=for-the-badge&logo=csharp&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="HTML" width="65px" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="CSS" width="65px" src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="Java" width="65px" src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="React Native" width="65px" src="https://img.shields.io/badge/React%20Native-61DBFB?style=for-the-badge&logo=react&logoColor=white" style="padding-right:10px;" />
 
-<img align="left" alt="MongoDB" width="26px" src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="65px" src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="Git" width="65px" src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="65px" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" style="padding-right:10px;" />
 
-<img align="left" alt="Android studio" width="26px" src="https://img.shields.io/badge/Android%20Studio-669933?style=for-the-badge&logo=androidstudio&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="Android studio" width="65px" src="https://img.shields.io/badge/Android%20Studio-669933?style=for-the-badge&logo=androidstudio&logoColor=white" style="padding-right:10px;" />
 
-<img align="left" alt="ASP.NET – MVC" width="26px" src="https://img.shields.io/badge/ASP.NET-4e2acd?style=for-the-badge&logo=dotnet&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="Jira" width="26px" src="https://img.shields.io/badge/Jira-004fc6?style=for-the-badge&logo=Jirasoftware&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="Oracle (SQL/PL-SQL)" width="26px" src="https://img.shields.io/badge/Oracle-F80102?style=for-the-badge&logo=oracle&logoColor=white" style="padding-right:10px;" />
-<!-- <img align="left" alt="Windows Form" width="26px" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" style="padding-right:10px;" /> -->
-<img align="left" alt="Jenkins" width="26px" src="https://img.shields.io/badge/Jenkins-212529?style=for-the-badge&logo=Jenkins&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="Firebase" width="26px" src="https://img.shields.io/badge/Firebase-F6820D?style=for-the-badge&logo=Firebase&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="ASP.NET – MVC" width="65px" src="https://img.shields.io/badge/ASP.NET-4e2acd?style=for-the-badge&logo=dotnet&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="Jira" width="65px" src="https://img.shields.io/badge/Jira-004fc6?style=for-the-badge&logo=Jirasoftware&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="Oracle (SQL/PL-SQL)" width="65px" src="https://img.shields.io/badge/Oracle-F80102?style=for-the-badge&logo=oracle&logoColor=white" style="padding-right:10px;" />
+<!-- <img align="left" alt="Windows Form" width="65px" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" style="padding-right:10px;" /> -->
+<img align="left" alt="Jenkins" width="65px" src="https://img.shields.io/badge/Jenkins-212529?style=for-the-badge&logo=Jenkins&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="Firebase" width="65px" src="https://img.shields.io/badge/Firebase-F6820D?style=for-the-badge&logo=Firebase&logoColor=white" style="padding-right:10px;" />
 
-<img align="left" alt="MeisterTask" width="26px" src="https://img.shields.io/badge/MeisterTask-00a5f7?style=for-the-badge&logo=meistertask&logoColor=white" style="padding-right:10px;" />
-<!-- <img align="left" alt="SQL Server" width="26px" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" style="padding-right:10px;" /> -->
+<img align="left" alt="MeisterTask" width="65px" src="https://img.shields.io/badge/MeisterTask-00a5f7?style=for-the-badge&logo=meistertask&logoColor=white" style="padding-right:10px;" />
 
-<!-- <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> -->
+<!-- Express
+XML -->
+<!-- <img align="left" alt="SQL Server" width="65px" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" style="padding-right:10px;" /> -->
 
-<!-- <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> -->
+<!-- <img align="left" alt="HTML5" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> -->
 
-<!-- (<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />)
-(<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />) -->
+<!-- <img align="left" alt="MySQL" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> -->
+
+<!-- (<img align="left" alt="Terminal" width="65px" src="./img/terminal-light.svg" />)
+(<img align="left" alt="Terminal" width="65px" src="./img/terminal-dark.svg" />) -->
 
 <br />
 <br />
