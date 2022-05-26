@@ -84,13 +84,20 @@ Frontend Development:
 <img alt="React" src="https://img.shields.io/badge/react-61DBFB?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="React Native" src="https://img.shields.io/badge/React%20Native-61DBFB?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="Expo" src="https://img.shields.io/badge/Expo-33363b?style=for-the-badge&logo=Expo&logoColor=white" />
-<!-- <img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS" src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white" /> -->
+<img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white" />
 
-Frontend Development:
+Backend Development:
 
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white" />
-<img alt="Express" src="https://img.shields.io/badge/Express-363636?style=for-the-badge&logo=Express&logoColor=white" />
+<img alt="Express.js" src="https://img.shields.io/badge/Express-363636?style=for-the-badge&logo=Express&logoColor=white" />
+
+Frameworks:
+
+<img alt="Django" src="https://img.shields.io/badge/Django-092d1f?style=for-the-badge&logo=django&logoColor=white" />
+<img alt="ASP.NET – MVC" src="https://img.shields.io/badge/ASP.NET-4e2acd?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+Project management technologies:
 
 <!-- <img alt="Windows Form" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /> -->
 <img alt="Git" src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
@@ -104,8 +111,6 @@ Databases:
 <img alt="Oracle (SQL/PL-SQL)" src="https://img.shields.io/badge/Oracle-F80102?style=for-the-badge&logo=oracle&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-F6820D?style=for-the-badge&logo=Firebase&logoColor=white" />
-
-<img alt="ASP.NET – MVC" src="https://img.shields.io/badge/ASP.NET-4e2acd?style=for-the-badge&logo=dotnet&logoColor=white" />
 
 </div>
 <!-- 
