@@ -138,34 +138,33 @@ XML -->
 
 ## Repositories
 
-<div id='repositories'>
+<div id='repositories' class='skill2'>
 <details>
     <summary> 2019 - Workplace entry system through facial recognition with visionimpairment access (Visual Studio Code – Python – OpenCv - MeisterTask) </summary>
 <br />
-<table>
-<tr>
-<td>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System&bg_color=09131B)](https://github.com/YonatanHen/Face_Rec_System)
 
-</td>
-<td>
-ddd
-</td>
-</tr>
-</table>
 </details>
 
 <details>
 
 <summary> 2019 - Food recipes from products - Android app (Android Studio – Firebase - Java and XML) – No partners </summary>
 <br />
+<table>
+<tr>
+<td>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=Food-recipes-from-products---android-App&bg_color=09131B)](https://github.com/Guyco070/Food-recipes-from-products---android-App)
 
+</td>
+<td>
 <a href='https://youtu.be/C4j5wOaLyi8'>
   <img alt="Watch the video" width="300px" src="./assets/frpic.png" />
 </a>
+</td>
+</tr>
+</table>
 
 </details>
 
