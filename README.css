@@ -2,6 +2,10 @@
     display: flex; flex-direction: column; margin: 40px; border-width:6px; border-color:black;
 }
 
+.skill2 {
+    margin: 40px;
+}
+
 .m0  { margin:        0 }
 .mt0 { margin-top:    0 }
 .mr0 { margin-right:  0 }
