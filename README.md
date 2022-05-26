@@ -144,7 +144,7 @@ XML -->
 <br />
 <div id="header2" align="center">
     
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System&bg_color=09131B)](https://github.com/YonatanHen/Face_Rec_System)
+<img src="https://github.com/YonatanHen/Face_Rec_System" alt="Readme Card"/>
 
 </div>
 </details>
