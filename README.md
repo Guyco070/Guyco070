@@ -154,6 +154,10 @@ XML -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=Food-recipes-from-products---android-App&bg_color=09131B)](https://github.com/Guyco070/Food-recipes-from-products---android-App)
 
+<a href='https://youtu.be/C4j5wOaLyi8'>
+  <img alt="Watch the video" width="300px" src="./assets/frpic.png" />
+</a> -->
+
 </details>
 
 <details>
@@ -166,7 +170,6 @@ XML -->
 </details>
 
 <details>
-
 <summary> 2020 - Cinema website (ASP.NET, SQL Server – C#, SQL, HTML, CSS, Java Script) </summary>
 <br />
 
@@ -195,10 +198,6 @@ XML -->
 </div>
 
 </details>
-<!--
-<a href='https://youtu.be/C4j5wOaLyi8'>
-  <img alt="Watch the video" width="300px" src="./assets/frpic.png" />
-</a> -->
 
 ---
 
