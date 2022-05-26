@@ -61,6 +61,7 @@
     </td>
 </tr>
 </table> -->
+<div>
 <img  alt="Visual Studio Code" width="65px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white"  />
 
 <img  alt="Java Script" width="65px" src="https://img.shields.io/badge/Java%20Script-f7df1e?style=for-the-badge&logo=javascript&logoColor=white"  />
@@ -90,7 +91,7 @@
 <img  alt="Firebase" width="65px" src="https://img.shields.io/badge/Firebase-F6820D?style=for-the-badge&logo=Firebase&logoColor=white"  />
 
 <img  alt="MeisterTask" width="65px" src="https://img.shields.io/badge/MeisterTask-00a5f7?style=for-the-badge&logo=meistertask&logoColor=white"  style="padding-right:10px;"/>
-
+</div>
 <!-- Express
 XML -->
 <!-- <img  alt="SQL Server" width="65px" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"  /> -->
