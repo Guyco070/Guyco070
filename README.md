@@ -64,7 +64,7 @@
 </table> -->
 <div>
 
-## IDEs:
+### IDEs:
 
 <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-aa75e9?style=for-the-badge&logo=VisualStudio&logoColor=white" />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -73,7 +73,7 @@
 <br />
 <br />
 
-## Programming Languages:
+### Programming Languages:
 
 <img alt="Python" src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="C" src="https://img.shields.io/badge/C-5c6bc0?style=for-the-badge&logo=c&logoColor=white" />
@@ -84,7 +84,7 @@
 <br />
 <br />
 
-## Frontend Development:
+### Frontend Development:
 
 <img alt="React" src="https://img.shields.io/badge/react-61DBFB?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="React Native" src="https://img.shields.io/badge/React%20Native-61DBFB?style=for-the-badge&logo=react&logoColor=white" />
@@ -94,21 +94,21 @@
 <br />
 <br />
 
-## Backend Development:
+### Backend Development:
 
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="Express.js" src="https://img.shields.io/badge/Express-363636?style=for-the-badge&logo=Express&logoColor=white" />
 <br />
 <br />
 
-## Frameworks:
+### Frameworks:
 
 <img alt="Django" src="https://img.shields.io/badge/Django-092d1f?style=for-the-badge&logo=django&logoColor=white" />
 <img alt="ASP.NET – MVC" src="https://img.shields.io/badge/ASP.NET-4e2acd?style=for-the-badge&logo=dotnet&logoColor=white" />
 <br />
 <br />
 
-## Project management technologies:
+### Project management technologies:
 
 <!-- <img alt="Windows Form" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /> -->
 <img alt="Git" src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
@@ -119,7 +119,7 @@
 <br />
 <br />
 
-## Databases:
+### Databases:
 
 <img alt="Oracle (SQL/PL-SQL)" src="https://img.shields.io/badge/Oracle-F80102?style=for-the-badge&logo=oracle&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -147,6 +147,7 @@ XML -->
 <summary> Repositories</summary>
 <div id='repositories' style='padding-left: 15px;'>
 <details>
+&nbsp;&nbsp;
     <summary> 2019 - Workplace entry system through facial recognition with visionimpairment access (Visual Studio Code – Python – OpenCv - MeisterTask) </summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System&bg_color=09131B)](https://github.com/YonatanHen/Face_Rec_System)
@@ -154,6 +155,7 @@ XML -->
 </details>
 
 <details>
+&nbsp;
     <summary> 2019 - Workplace entry system through facial recognition with visionimpairment access (Visual Studio Code – Python – OpenCv - MeisterTask) </summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System&bg_color=09131B)](https://github.com/YonatanHen/Face_Rec_System)
