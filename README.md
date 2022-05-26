@@ -12,9 +12,9 @@
 
 # Hi there, I'm Guy Cohen and I am in my fourth year of studying software engineering.
 
-## Experienced in object-oriented programming in different languages, use in different work environments and more.
+### Experienced in object-oriented programming in different languages, use in different work environments and more.
 
-## Always willing to learn new things and experienced in self-learning.👋
+### Always willing to learn new things and experienced in self-learning.👋
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
 
