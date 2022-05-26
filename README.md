@@ -144,20 +144,22 @@ XML -->
 ---
 
 <details open>
-<summary>: Repositories</summary>
+<summary> Repositories</summary>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System&bg_color=09131B)](https://github.com/YonatanHen/Face_Rec_System)
+
 </details>
 <!--
 <a href='https://youtu.be/C4j5wOaLyi8'>
   <img alt="Watch the video" width="300px" src="./assets/frpic.png" />
 </a> -->
 
-<!-- <details> -->
+<details open>
  <summary>:zap: GitHub Stats</summary>
 
  <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Guyco070&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-<!-- </details> -->
+</details>
 
 <!-- [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
