@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="100"/>
+</div>
+
 # Hi there, I'm Guy Cohen and I am in my fourth year of studying software engineering.
 
 ## Experienced in object-oriented programming in different languages, use in different work environments and more.
