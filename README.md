@@ -69,6 +69,7 @@ IDEAs:
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img alt="Android studio" src="https://img.shields.io/badge/Android%20Studio-669933?style=for-the-badge&logo=androidstudio&logoColor=white" />
 <img alt="Eclipse" src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+<br />
 
 Programming Languages:
 
@@ -78,6 +79,7 @@ Programming Languages:
 <img alt="C#" src="https://img.shields.io/badge/C%23-37008c?style=for-the-badge&logo=csharp&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white" />
 <img alt="Java Script" src="https://img.shields.io/badge/Java%20Script-f7df1e?style=for-the-badge&logo=javascript&logoColor=white" />
+<br />
 
 Frontend Development:
 
@@ -86,16 +88,19 @@ Frontend Development:
 <img alt="Expo" src="https://img.shields.io/badge/Expo-33363b?style=for-the-badge&logo=Expo&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white" />
+<br />
 
 Backend Development:
 
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="Express.js" src="https://img.shields.io/badge/Express-363636?style=for-the-badge&logo=Express&logoColor=white" />
+<br />
 
 Frameworks:
 
 <img alt="Django" src="https://img.shields.io/badge/Django-092d1f?style=for-the-badge&logo=django&logoColor=white" />
 <img alt="ASP.NET – MVC" src="https://img.shields.io/badge/ASP.NET-4e2acd?style=for-the-badge&logo=dotnet&logoColor=white" />
+<br />
 
 Project management technologies:
 
@@ -105,6 +110,7 @@ Project management technologies:
 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-212529?style=for-the-badge&logo=Jenkins&logoColor=white" />
 <img alt="Jira" src="https://img.shields.io/badge/Jira-004fc6?style=for-the-badge&logo=Jirasoftware&logoColor=white" />
 <img alt="MeisterTask" src="https://img.shields.io/badge/MeisterTask-00a5f7?style=for-the-badge&logo=meistertask&logoColor=white" style="padding-right:10px;"/>
+<br />
 
 Databases:
 
