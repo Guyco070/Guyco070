@@ -2,7 +2,7 @@
  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="200"/>
  <div id="badges">
     <a href="https://www.linkedin.com/in/guy-cohen-software-engineer/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:Guyco070@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
