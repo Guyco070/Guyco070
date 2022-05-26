@@ -144,7 +144,7 @@ XML -->
 ---
 
 <details open>
-<summary> Repositories</summary>
+<summary .u-pr1> Repositories</summary>
 <div id='repositories'>
 <details>
 <summary> 2019 - Workplace entry system through facial recognition with visionimpairment access (Visual Studio Code – Python – OpenCv - MeisterTask) </summary>
