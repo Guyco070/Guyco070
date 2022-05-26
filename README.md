@@ -149,7 +149,6 @@ XML -->
 <details>
     <summary> 2019 - Workplace entry system through facial recognition with visionimpairment access (Visual Studio Code – Python – OpenCv - MeisterTask) </summary>
 <br />
-<br />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System&bg_color=09131B)](https://github.com/YonatanHen/Face_Rec_System)
 
@@ -167,6 +166,7 @@ XML -->
 <details>
 
 <summary> 2020 - Driving Simulator Project – Java (Advanced OOP courseproject with multi-threading and some design patterns) </summary>
+<br />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yarinab1&repo=Traffic-simulator-java&bg_color=09131B)](https://github.com/yarinab1/Traffic-simulator-java)
 
@@ -175,6 +175,7 @@ XML -->
 <details>
 
 <summary> 2020 - Cinema website (ASP.NET, SQL Server – C#, SQL, HTML, CSS, Java Script) </summary>
+<br />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=Cinema-website---ASP.NET-Sql-Developer&bg_color=09131B)](https://github.com/Guyco070/Cinema-website---ASP.NET-Sql-Developer)
 
@@ -183,6 +184,7 @@ XML -->
 <details>
 
 <summary> 2021 - Website for managing a project in an agile environment with a Kanban board (Django - Python, HTML, CSS, MongoDB) </summary>
+<br />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=Agile-method-Python-WEB&bg_color=09131B)](https://github.com/Guyco070/Agile-method-Python-WEB)
 
@@ -191,6 +193,7 @@ XML -->
 <details>
 
 <summary> 2021 - Final project – HomEco – Home budget management app (React Native, firebase) </summary>
+<br />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=HomEco-Final-project--React-Native-&bg_color=09131B)](https://github.com/Guyco070/HomEco-Final-project--React-Native-)
 
