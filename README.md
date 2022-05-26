@@ -156,7 +156,7 @@ XML -->
 
 <a href='https://youtu.be/C4j5wOaLyi8'>
   <img alt="Watch the video" width="300px" src="./assets/frpic.png" />
-</a> -->
+</a>
 
 </details>
 
