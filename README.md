@@ -133,7 +133,6 @@ XML -->
 (<img alt="Terminal" src="./img/terminal-dark.svg" />) -->
 
 <br />
-<br />
 
 ---
 
