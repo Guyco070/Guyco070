@@ -63,7 +63,7 @@
 </table> -->
 <div>
 
-IDEAs:
+IDEs:
 
 <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-aa75e9?style=for-the-badge&logo=VisualStudio&logoColor=white" />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
