@@ -14,13 +14,13 @@
 
 ### Experienced in object-oriented programming in different languages, use in different work environments and more.
 
-### Always willing to learn new things and experienced in self-learning.👋
+### Always willing to learn new things and experienced in self-learning.
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
 
 - 🥅 2022 Goals: Find my first job as a software engineer and enjoy it.
 
-- 🌱 Fun fact: I love plants. 🤣
+- 🌱 Fun fact: I love plants.
   <!-- - 👯 I’m looking to collaborate with other content creators -->
     <!-- - ⚡ Fun fact: I love plants. -->
     <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
