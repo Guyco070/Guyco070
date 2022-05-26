@@ -1,10 +1,19 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="200"/>
 </div>
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/guy-cohen-software-engineer/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="Guyco070@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 # Hi there, I'm Guy Cohen and I am in my fourth year of studying software engineering.
 
-## Experienced in object-oriented programming in different languages, use in different work environments and more.\nAlways willing to learn new things and experienced in self-learning.👋
+## Experienced in object-oriented programming in different languages, use in different work environments and more.
+
+## Always willing to learn new things and experienced in self-learning.👋
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
 
