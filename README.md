@@ -18,7 +18,7 @@
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 Fun fact: I love plants. 🤣
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 - 🥅 2022 Goals: Find my first job as a software engineer and enjoy it.
   <!-- - ⚡ Fun fact: I love plants. -->
