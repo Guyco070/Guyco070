@@ -147,7 +147,8 @@ XML -->
 
 <div id='repositories' class='skill2'>
 <details>
-    <summary> 2019 - Workplace entry system through facial recognition with visionimpairment access (Visual Studio Code – Python – OpenCv - MeisterTask) </summary>
+    <summary> 2019 - Workplace entry system through facial recognition with visionimpairment access 
+    (Visual Studio Code – Python – OpenCv - MeisterTask) </summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System&bg_color=09131B)](https://github.com/YonatanHen/Face_Rec_System)
 
@@ -155,9 +156,10 @@ XML -->
 
 <details>
 
-<summary> 2019 - Workplace entry system through facial recognition with visionimpairment access (Visual Studio Code – Python – OpenCv - MeisterTask) </summary>
+<summary> 2019 - Food recipes from products - Android app 
+(Android Studio – Firebase - Java and XML) – No partners </summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System&bg_color=09131B)](https://github.com/YonatanHen/Face_Rec_System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=Food-recipes-from-products---android-App&bg_color=09131B)](https://github.com/Guyco070/Food-recipes-from-products---android-App)
 
 </details>
 
@@ -170,6 +172,7 @@ XML -->
 </a> -->
 
 <details open>
+
  <summary>:zap: GitHub Stats</summary>
 
  <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Guyco070&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
