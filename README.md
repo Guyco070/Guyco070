@@ -145,7 +145,7 @@ XML -->
 
 <details open>
 <summary> Repositories</summary>
-<div id='repositories'>
+<div id='repositories' style='padding-left: 15px;'>
 <details>
     <summary> 2019 - Workplace entry system through facial recognition with visionimpairment access (Visual Studio Code – Python – OpenCv - MeisterTask) </summary>
 
