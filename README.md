@@ -138,7 +138,7 @@ XML -->
 
 ## Repositories
 
-<div id='repositories' class='skill2'>
+<div id='repositories'>
 <details>
     <summary> 2019 - Workplace entry system through facial recognition with visionimpairment access (Visual Studio Code – Python – OpenCv - MeisterTask) </summary>
 <br />
