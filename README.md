@@ -1,7 +1,7 @@
 <style>
-    table {
-        border: 'none'
-    }
+    td, th {
+   border: none!important;
+}
 </style>
 
 <div id="header" align="center">
