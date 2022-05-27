@@ -209,7 +209,7 @@ XML -->
 </a> -->
 </details>
 <h4> * Some of the projects are still in development and will be updated soon... :technologist:</h5>
-<h3>Scroll down for more</h3>
+<h4> * Scroll down for more</h4>
 </div>
 
 </details>
