@@ -152,7 +152,11 @@ XML -->
 <a href="https://github.com/YonatanHen/Face_Rec_System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System&bg_color=white" />
 </a>
+&nbsp;&nbsp;
+<a href='https://youtu.be/_H7NXx41TGY'>
 
+  <img align="center"  alt="Watch the video" width="300px" src="./assets/face rec.png" />
+</a>
 </details>
 
 <details>
