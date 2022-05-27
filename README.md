@@ -150,7 +150,7 @@ XML -->
 <br />
 
 <a href="https://github.com/YonatanHen/Face_Rec_System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System&bg_color=lightgrey" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System&bg_color=grey" />
 </a>
 
 </details>
