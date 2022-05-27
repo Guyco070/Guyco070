@@ -160,7 +160,7 @@ XML -->
 <summary> 2019 - Food recipes from products - Android app (Android Studio – Firebase - Java and XML) – No partners </summary>
 <br />
 <a href="https://github.com/Guyco070/Food-recipes-from-products---android-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=Food-recipes-from-products---android-App&bg_color=09131B" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=Food-recipes-from-products---android-App&bg_color=white" />
 </a>
 &nbsp;&nbsp;
 <a href='https://youtu.be/C4j5wOaLyi8'>
