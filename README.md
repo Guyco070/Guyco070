@@ -161,7 +161,6 @@ XML -->
 </a>
 &nbsp;&nbsp;
 <a href='https://youtu.be/C4j5wOaLyi8'>
-
   <img align="center"  alt="Watch the video" width="300px" src="./assets/frpic.png" />
 </a>
 
@@ -188,18 +187,26 @@ XML -->
 
 <summary> 2021 - Website for managing a project in an agile environment with a Kanban board (Django - Python, HTML, CSS, MongoDB) </summary>
 <br />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=Agile-method-Python-WEB&bg_color=white)](https://github.com/Guyco070/Agile-method-Python-WEB)
-
+<a href="https://github.com/Guyco070/Agile-method-Python-WEB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=Agile-method-Python-WEB&bg_color=white" />
+</a>
+&nbsp;&nbsp;
+<a href='https://youtu.be/6MgyT9TGvkw'>
+  <img align="center"  alt="Watch the video" width="300px" src="./assets/MyKanban.jpg" />
+</a>
 </details>
 
 <details>
 
 <summary> 2021 - Final project – HomEco – Home budget management app (React Native, firebase) </summary>
 <br />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=HomEco-Final-project--React-Native-&bg_color=white)](https://github.com/Guyco070/HomEco-Final-project--React-Native-)
-
+<a href="https://github.com/Guyco070/HomEco-Final-project--React-Native-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=HomEco-Final-project--React-Native-&bg_color=white" />
+</a>
+&nbsp;&nbsp;
+<a href='https://youtu.be/6MgyT9TGvkw'>
+  <img align="center"  alt="Watch the video" width="300px" src="./assets/MyKanban.jpg" />
+</a>
 </details>
 
 </div>
