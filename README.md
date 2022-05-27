@@ -208,8 +208,8 @@ XML -->
   <img align="center"  alt="Watch the video" width="300px" src="./assets/MyKanban.jpg" />
 </a> -->
 </details>
-<h3>Scroll down for more</h3>
 <h4> * Some of the projects are still in development and will be updated soon... :technologist:</h5>
+<h3>Scroll down for more</h3>
 </div>
 
 </details>
