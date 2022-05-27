@@ -1,3 +1,9 @@
+<style>
+    table {
+        border: 'none'
+    }
+</style>
+
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="200"/>
  <div id="badges">
@@ -151,7 +157,7 @@ XML -->
 
 <summary> 2019 - Food recipes from products - Android app (Android Studio – Firebase - Java and XML) – No partners </summary>
 <br />
-<table border='1px solid'>
+<table border='0px'>
 <tr>
 <td>
 
