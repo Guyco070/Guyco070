@@ -203,10 +203,10 @@ XML -->
 <a href="https://github.com/Guyco070/HomEco-Final-project--React-Native-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=HomEco-Final-project--React-Native-&bg_color=white" />
 </a>
-&nbsp;&nbsp;
+<!-- &nbsp;&nbsp;
 <a href='https://youtu.be/6MgyT9TGvkw'>
   <img align="center"  alt="Watch the video" width="300px" src="./assets/MyKanban.jpg" />
-</a>
+</a> -->
 </details>
 
 </div>
