@@ -1,5 +1,7 @@
 <style>
-
+    td, th {
+   border: none!important;
+}
 </style>
 
 <div id="header" align="center">
@@ -155,14 +157,14 @@ XML -->
 
 <summary> 2019 - Food recipes from products - Android app (Android Studio – Firebase - Java and XML) – No partners </summary>
 <br />
-<table border='hidden'>
-<tr border='hidden'>
-<td border='hidden'>
+<table border='none!important;'>
+<tr>
+<td>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=Food-recipes-from-products---android-App&bg_color=09131B)](https://github.com/Guyco070/Food-recipes-from-products---android-App)
 
 </td>
-<td border='hidden'>
+<td>
 <a href='https://youtu.be/C4j5wOaLyi8'>
   <img alt="Watch the video" width="300px" src="./assets/frpic.png" />
 </a>
