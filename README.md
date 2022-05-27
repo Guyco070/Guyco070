@@ -208,7 +208,7 @@ XML -->
   <img align="center"  alt="Watch the video" width="300px" src="./assets/MyKanban.jpg" />
 </a> -->
 </details>
-> *Some of the projects are still in development and will be updated soon... :technologist:
+<h4 font_waith='bold'> *Some of the projects are still in development and will be updated soon... :technologist:</h5>
 </div>
 
 </details>
