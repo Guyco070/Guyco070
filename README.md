@@ -157,7 +157,7 @@ XML -->
 
 <summary> 2019 - Food recipes from products - Android app (Android Studio – Firebase - Java and XML) – No partners </summary>
 <br />
-<table border='-1px'>
+<table border='hidden'>
 <tr>
 <td>
 
