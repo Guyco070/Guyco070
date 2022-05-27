@@ -1,7 +1,5 @@
 <style>
-.repo {
-    display: flex; flex-direction: row; margin: 0px; border-width:6px; border-color:black;
-}
+
 </style>
 
 <div id="header" align="center">
@@ -157,14 +155,20 @@ XML -->
 
 <summary> 2019 - Food recipes from products - Android app (Android Studio – Firebase - Java and XML) – No partners </summary>
 <br />
-<div class='repo'>
+<table border='hidden'>
+<tr border='hidden'>
+<td border='hidden'>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=Food-recipes-from-products---android-App&bg_color=09131B)](https://github.com/Guyco070/Food-recipes-from-products---android-App)
 
+</td>
+<td border='hidden'>
 <a href='https://youtu.be/C4j5wOaLyi8'>
-  <img alt="Watch the video" width="10px" src="./assets/frpic.png" />
+  <img alt="Watch the video" width="300px" src="./assets/frpic.png" />
 </a>
-</div>
+</td>
+</tr>
+</table>
 
 </details>
 
