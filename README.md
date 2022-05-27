@@ -1,9 +1,3 @@
-<style>
-    td, th {
-   border: none!important;
-}
-</style>
-
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="200"/>
  <div id="badges">
@@ -154,8 +148,7 @@ XML -->
 </a>
 &nbsp;&nbsp;
 <a href='https://youtu.be/_H7NXx41TGY'>
-
-  <img align="center"  alt="Watch the video" width="300px" src="./assets/face rec.png" />
+  <img align="center"  alt="Watch the video" width="300px" src="./assets/faceRec.jpg" />
 </a>
 </details>
 
