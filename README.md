@@ -150,7 +150,7 @@ XML -->
 <br />
 
 <a href="https://github.com/YonatanHen/Face_Rec_System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System&bg_color=grey" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YonatanHen&repo=Face_Rec_System&bg_color=white" />
 </a>
 
 </details>
@@ -175,7 +175,7 @@ XML -->
 <summary> 2020 - Driving Simulator Project – Java (Advanced OOP courseproject with multi-threading and some design patterns) </summary>
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yarinab1&repo=Traffic-simulator-java&bg_color=09131B)](https://github.com/yarinab1/Traffic-simulator-java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yarinab1&repo=Traffic-simulator-java&bg_color=white)](https://github.com/yarinab1/Traffic-simulator-java)
 
 </details>
 
@@ -183,7 +183,7 @@ XML -->
 <summary> 2020 - Cinema website (ASP.NET, SQL Server – C#, SQL, HTML, CSS, Java Script) </summary>
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=Cinema-website---ASP.NET-Sql-Developer&bg_color=09131B)](https://github.com/Guyco070/Cinema-website---ASP.NET-Sql-Developer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=Cinema-website---ASP.NET-Sql-Developer&bg_color=white)](https://github.com/Guyco070/Cinema-website---ASP.NET-Sql-Developer)
 
 </details>
 
@@ -192,7 +192,7 @@ XML -->
 <summary> 2021 - Website for managing a project in an agile environment with a Kanban board (Django - Python, HTML, CSS, MongoDB) </summary>
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=Agile-method-Python-WEB&bg_color=09131B)](https://github.com/Guyco070/Agile-method-Python-WEB)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=Agile-method-Python-WEB&bg_color=white)](https://github.com/Guyco070/Agile-method-Python-WEB)
 
 </details>
 
@@ -201,7 +201,7 @@ XML -->
 <summary> 2021 - Final project – HomEco – Home budget management app (React Native, firebase) </summary>
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=HomEco-Final-project--React-Native-&bg_color=09131B)](https://github.com/Guyco070/HomEco-Final-project--React-Native-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=HomEco-Final-project--React-Native-&bg_color=white)](https://github.com/Guyco070/HomEco-Final-project--React-Native-)
 
 </details>
 
