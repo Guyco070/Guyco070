@@ -162,9 +162,9 @@ XML -->
 <a href="https://github.com/Guyco070/Food-recipes-from-products---android-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=Food-recipes-from-products---android-App&bg_color=09131B" />
 </a>
-
+&nbsp;&nbsp;
 <a href='https://youtu.be/C4j5wOaLyi8'>
-Youtube video:
+
   <img align="center"  alt="Watch the video" width="300px" src="./assets/frpic.png" />
 </a>
 
