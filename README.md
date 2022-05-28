@@ -142,7 +142,7 @@ XML -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yarinab1&repo=Traffic-simulator-java&bg_color=white)](https://github.com/yarinab1/Traffic-simulator-java)
 
-</details> מ
+</details>
 
 <details>
 <summary> 2020 - Cinema website (ASP.NET, SQL Server – C#, SQL, HTML, CSS, Java Script) </summary>
