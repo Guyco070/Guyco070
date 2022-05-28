@@ -170,7 +170,7 @@ XML -->
 <summary> 2021 - Final project – HomEco – Home budget management app (React Native, firebase) </summary>
 <br />
 <a href="https://github.com/Guyco070/HomEco-Final-project--React-Native-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=HomEco-Final-project--React-Native-&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=HomEco-Final-project--React-Native-&bg_color=white" />
 </a>
 <!-- &nbsp;&nbsp;
 <a href='https://youtu.be/6MgyT9TGvkw'>
