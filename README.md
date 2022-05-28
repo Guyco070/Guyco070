@@ -21,9 +21,6 @@
 - 🥅 2022 Goals: Find my first job as a software engineer and enjoy it.
 
 - 🌱 Fun fact: I love plants.
-  <!-- - 👯 I’m looking to collaborate with other content creators -->
-    <!-- - ⚡ Fun fact: I love plants. -->
-    <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
 <!-- ### Connect with me:
 
@@ -44,24 +41,6 @@
 
 ## Languages and Tools:
 
-<!-- <table>
-<tr>
-  <td>
-    <img align="center" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  </td>
-  <td>
-    <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </td>
-</tr>
-</tr>
-  <td>
-    Visual Studio Code
-  </td>
-  <td>
-    Java Script
-  </td>
-</tr>
-</table> -->
 <div>
 
 ### IDEs:
@@ -124,17 +103,7 @@
 XML -->
 <!-- <img alt="SQL Server" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /> -->
 
-<!-- <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> -->
-
-<!-- <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> -->
-
-<!-- (<img alt="Terminal" src="./img/terminal-light.svg" />)
-(<img alt="Terminal" src="./img/terminal-dark.svg" />) -->
-
-<br />
-
----
+## <br />
 
 ## Repositories
 
@@ -173,7 +142,7 @@ XML -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yarinab1&repo=Traffic-simulator-java&bg_color=white)](https://github.com/yarinab1/Traffic-simulator-java)
 
-</details>
+</details> מ
 
 <details>
 <summary> 2020 - Cinema website (ASP.NET, SQL Server – C#, SQL, HTML, CSS, Java Script) </summary>
@@ -201,7 +170,7 @@ XML -->
 <summary> 2021 - Final project – HomEco – Home budget management app (React Native, firebase) </summary>
 <br />
 <a href="https://github.com/Guyco070/HomEco-Final-project--React-Native-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=HomEco-Final-project--React-Native-&bg_color=white" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=HomEco-Final-project--React-Native-&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </a>
 <!-- &nbsp;&nbsp;
 <a href='https://youtu.be/6MgyT9TGvkw'>
