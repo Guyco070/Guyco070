@@ -174,7 +174,7 @@ XML -->
 </a>
 &nbsp;&nbsp;
 <a href='https://youtu.be/LZInDR4q70w'>
-  <img align="center"  alt="Watch the video" width="300px" src="./assets/HomEco.jpg" />
+  <img align="center"  alt="Watch the video" width="300px" src="./assets/HomEco.png" />
 </a>
 </details>
 <h4> * Some of the projects are still in development and will be updated soon... :technologist:</h5>
