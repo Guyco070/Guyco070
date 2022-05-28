@@ -172,10 +172,10 @@ XML -->
 <a href="https://github.com/Guyco070/HomEco-Final-project--React-Native-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=HomEco-Final-project--React-Native-&bg_color=white" />
 </a>
-<!-- &nbsp;&nbsp;
-<a href='https://youtu.be/6MgyT9TGvkw'>
-  <img align="center"  alt="Watch the video" width="300px" src="./assets/MyKanban.jpg" />
-</a> -->
+&nbsp;&nbsp;
+<a href='https://youtu.be/LZInDR4q70w'>
+  <img align="center"  alt="Watch the video" width="300px" src="./assets/HomEco.jpg" />
+</a>
 </details>
 <h4> * Some of the projects are still in development and will be updated soon... :technologist:</h5>
 <h4> * Scroll down for more</h4>
