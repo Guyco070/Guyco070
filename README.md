@@ -196,8 +196,7 @@ XML -->
 <a href='https://github.com/RotemLibrati/donation-finder-nodejs.git'>
     <img alt="Backend GitHub" src="https://img.shields.io/badge/Backend%20GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-  
---
+
   
 ### Frontend Development:
 
