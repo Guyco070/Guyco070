@@ -10,7 +10,8 @@
   </div>
 </div>
 
-## Hi there, I'm Guy Cohen and I just graduated with a bachelor's degree in software engineering.
+## Hi there, 
+## I'm Guy Cohen and I just graduated with a bachelor's degree in software engineering.
 
 ### Experienced in object-oriented programming in different languages, use in different work environments and more.
 
