@@ -59,6 +59,7 @@
 <img alt="C#" src="https://img.shields.io/badge/C%23-37008c?style=for-the-badge&logo=csharp&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white" />
 <img alt="Java Script" src="https://img.shields.io/badge/Java%20Script-f7df1e?style=for-the-badge&logo=javascript&logoColor=white" />
+<img alt="Dart" src="https://img.shields.io/badge/Dart-00579c?style=for-the-badge&logo=dart&logoColor=white" />
 <br />
 
 ### Frontend Development:
@@ -68,6 +69,7 @@
 <img alt="Expo" src="https://img.shields.io/badge/Expo-33363b?style=for-the-badge&logo=Expo&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-00579c?style=for-the-badge&logo=flutter&logoColor=white" />
 <br />
 
 ### Backend Development:
