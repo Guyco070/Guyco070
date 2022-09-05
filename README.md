@@ -185,13 +185,10 @@ XML -->
 
 <summary> 2022 - Donation Finder – Web aplication - Add a donation place or find the closest donation place to donate or take a donation. (React, Node.js, Express, Google API) </summary>
 <br />
-<a href="https://github.com/RotemLibrati/donation-finder-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RotemLibrati&repo=donation-finder-react&bg_color=white" />
-</a>
 
 &nbsp;&nbsp;
-<a href='https://youtu.be/LZInDR4q70w'>
-  <img align="center"  alt="Watch the video" width="300px" src="./assets/HomEco.png" />
+<a href='https://youtu.be/bS_d_YdTbeU'>
+  <img align="center"  alt="Watch the video" width="500px" src="./assets/DonatioFinder.jpg" />
 </a>
   
 ### Backend Development:
@@ -200,7 +197,7 @@ XML -->
     <img alt="Backend GitHub" src="https://img.shields.io/badge/Backend%20GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
   
----
+--
   
 ### Frontend Development:
 
