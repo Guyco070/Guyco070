@@ -183,7 +183,7 @@ XML -->
  
  <details>
 
-<summary> 2022 - Donation Finder – Web aplication - Add a donation place or find the closest donation place to donate or take a donation. (React, Node.js, Express, Google API) </summary>
+<summary> 2022 - Donation Finder – Web application - Add a donation place or find the closest donation place to donate or take a donation. (React, Node.js, Express, Google API) </summary>
 <br />
 
 &nbsp;&nbsp;
