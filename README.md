@@ -69,6 +69,7 @@
 <img alt="Expo" src="https://img.shields.io/badge/Expo-33363b?style=for-the-badge&logo=Expo&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="Google API" src="https://img.shields.io/badge/google%20api-red?style=for-the-badge&logo=google&logoColor=white" />
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-00579c?style=for-the-badge&logo=flutter&logoColor=white" />
 <br />
 
@@ -169,7 +170,7 @@ XML -->
 
 <details>
 
-<summary> 2021 - Final project – HomEco – Home budget management app (React Native, firebase) </summary>
+<summary> 2021 - 2022 - Final project – HomEco – Home budget management app (React Native, firebase) </summary>
 <br />
 <a href="https://github.com/Guyco070/HomEco-Final-project--React-Native-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=HomEco-Final-project--React-Native-&bg_color=white" />
@@ -179,6 +180,36 @@ XML -->
   <img align="center"  alt="Watch the video" width="300px" src="./assets/HomEco.png" />
 </a>
 </details>
+ 
+ <details>
+
+<summary> 2022 - Donation Finder – Web aplication - Add a donation place or find the closest donation place to donate or take a donation. (React, Node.js, Express, Google API) </summary>
+<br />
+<a href="https://github.com/RotemLibrati/donation-finder-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RotemLibrati&repo=donation-finder-react&bg_color=white" />
+</a>
+
+&nbsp;&nbsp;
+<a href='https://youtu.be/LZInDR4q70w'>
+  <img align="center"  alt="Watch the video" width="300px" src="./assets/HomEco.png" />
+</a>
+  
+### Backend Development:
+
+<a href='https://github.com/RotemLibrati/donation-finder-nodejs.git'>
+    <img alt="Backend GitHub" src="https://img.shields.io/badge/Backend%20GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+  
+---
+  
+### Frontend Development:
+
+<a href='https://github.com/RotemLibrati/donation-finder-react.git'>
+    <img alt="Frontend GitHub" src="https://img.shields.io/badge/Frontend%20GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+  
+</details>
+ 
 <h4> * Some of the projects are still in development and will be updated soon... :technologist:</h5>
 <h4> * Scroll down for more</h4>
 </div>
