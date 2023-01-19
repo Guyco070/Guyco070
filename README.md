@@ -208,7 +208,7 @@ XML -->
  
  <details>
 
-<summary> 2022 - Kodesh – IOS/ Android smartphone application. (Flutter and Dart)</summary>
+<summary> 2023 - Kodesh – IOS/ Android smartphone application. (Flutter and Dart)</summary>
 
 The application was developed to help its users who want to know the entry and exit times of Shabbats and Jewish holidays, Jewish times of the day, and more by logging in or by receiving notifications as the users wish.
 It is also possible to set notifications for additional reminders, for example, reminders to put on tefillin.
