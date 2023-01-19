@@ -229,15 +229,10 @@ It is also possible to set notifications for additional reminders, for example, 
 </details>
 
 ---
-
-<details open>
-
  <summary>Udemy Courses</summary>
  <br />
 
  <img align="center" alt="Flutter" width="400px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-2e99409d-a1e1-424f-968e-8daf120aa137.jpg?v=1667994514000" />
-
-</details>
 
  <summary>:zap: GitHub Stats</summary>
  <br />
