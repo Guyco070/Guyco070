@@ -209,10 +209,10 @@ XML -->
  <details>
 
 <summary> 2022 - Kodesh – IOS/ Android smartphone application. (Flutter and Dart)</summary>
-<br />
+
 The application was developed to help its users who want to know the entry and exit times of Shabbats and Jewish holidays, Jewish times of the day, and more by logging in or by receiving notifications as the users wish.
 It is also possible to set notifications for additional reminders, for example, reminders to put on tefillin.
-  
+<br />
 <a href="https://github.com/Guyco070/Kodesh-app----Flutter-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Guyco070&repo=Kodesh-app----Flutter-app&bg_color=white" />
 </a>
@@ -231,6 +231,13 @@ It is also possible to set notifications for additional reminders, for example, 
 ---
 
 <details open>
+
+ <summary>Udemy Courses</summary>
+ <br />
+
+ <img alt="Flutter" src="https://udemy-certificate.s3.amazonaws.com/image/UC-2e99409d-a1e1-424f-968e-8daf120aa137.jpg?v=1667994514000" />
+
+</details>
 
  <summary>:zap: GitHub Stats</summary>
  <br />
