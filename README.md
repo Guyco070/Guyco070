@@ -1,7 +1,7 @@
-[About me](https://github.com/Guyco070/Guyco070#hi-there-im-guy-cohen-and-i-just-graduated-with-a-bachelors-degree-in-software-engineering)
-&nbsp;&nbsp;&nbsp;&nbsp;[Languages and tools](https://github.com/Guyco070/Guyco070#languages-and-tools)
-&nbsp;&nbsp;&nbsp;&nbsp;[My special repositories](https://github.com/Guyco070/Guyco070#repositories)
-&nbsp;&nbsp;&nbsp;&nbsp;[Udemy courses](https://github.com/Guyco070/Guyco070/blob/main/README.md#udemy-courses)
+[About Me](https://github.com/Guyco070/Guyco070#hi-there-im-guy-cohen-and-i-just-graduated-with-a-bachelors-degree-in-software-engineering)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Languages and Tools](https://github.com/Guyco070/Guyco070#languages-and-tools)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[My Special Repositories](https://github.com/Guyco070/Guyco070#repositories)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Udemy Courses](https://github.com/Guyco070/Guyco070/blob/main/README.md#udemy-courses)
 
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="200"/>
