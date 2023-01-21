@@ -1,4 +1,3 @@
-#
 <div align="center">
  <a href="https://github.com/Guyco070/Guyco070#hi-there-im-guy-cohen-and-i-just-graduated-with-a-bachelors-degree-in-software-engineering">About Me</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/Guyco070/Guyco070#languages-and-tools">Languages and Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
