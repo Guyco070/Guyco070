@@ -1,6 +1,6 @@
 [About me](https://github.com/Guyco070/Guyco070#hi-there-im-guy-cohen-and-i-just-graduated-with-a-bachelors-degree-in-software-engineering)
 &nbsp;[Languages and tools](https://github.com/Guyco070/Guyco070#languages-and-tools)
-&nbsp;[My special repositories](https://github.com/Guyco070/Guyco070#repositories)
+&nbsp;&nbsp;&nbsp;[My special repositories](https://github.com/Guyco070/Guyco070#repositories)
 &nbsp;[Udemy courses](https://github.com/Guyco070/Guyco070/blob/main/README.md#udemy-courses)
 
 <div id="header" align="center">
