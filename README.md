@@ -1,10 +1,10 @@
-#
 <div align="center">
  <a href="https://github.com/Guyco070/Guyco070#hi-there-im-guy-cohen-and-i-just-graduated-with-a-bachelors-degree-in-software-engineering">About Me</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/Guyco070/Guyco070#languages-and-tools">Languages and Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/Guyco070/Guyco070#repositories">My Special Repositories</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/Guyco070/Guyco070/blob/main/README.md#udemy-courses">Udemy Courses</a>
 </div>
+#
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="200"/>
  <div id="badges">
