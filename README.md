@@ -18,7 +18,7 @@
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
 
-- 🥅 2022 Goals: Find my first job as a software engineer and enjoy it.
+- 🥅 2023 Goals: Find my first job as a software engineer and enjoy it.
 
 - 🌱 Fun fact: I love plants.
 
