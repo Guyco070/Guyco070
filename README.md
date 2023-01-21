@@ -4,7 +4,6 @@
  <a href="https://github.com/Guyco070/Guyco070#repositories">My Special Repositories</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/Guyco070/Guyco070/blob/main/README.md#udemy-courses">Udemy Courses</a>
 </div>
-#
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="200"/>
  <div id="badges">
